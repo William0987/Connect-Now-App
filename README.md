@@ -3,7 +3,8 @@ Connect Now is a social media app allowing users to post their thoughts and make
 
 
 # Screenshots
-
+<img src="https://i.imgur.com/ph2Vmdh.png">
+<img src="https://i.imgur.com/A0BcJGk.png">
 
 
 # Technologies Used
@@ -16,7 +17,9 @@ Connect Now is a social media app allowing users to post their thoughts and make
 - Javascript
 
 # Getting Started
+[Click to view Project Planning!​](https://trello.com/b/5EYrAmaF/project-4-sei)
 
+[Click to view Connect Now!]() 
 
 
 # Next Steps
