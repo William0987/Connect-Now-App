@@ -33,7 +33,7 @@ const ProfilePage = () => {
       <Navbar />
       <Box
         width="100%"
-        padding="2rem 6%"
+        padding="1.5rem 6%"
         display="flex" 
         gap="2rem"
         justifyContent="center"
