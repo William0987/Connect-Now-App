@@ -19,7 +19,7 @@ Connect Now is a social media app allowing users to post their thoughts and make
 # Getting Started
 [Click to view Project Planning!​](https://trello.com/b/5EYrAmaF/project-4-sei)
 
-[Click to view Connect Now! Link currently not working due to conflict in resolving dependencies for multer]() 
+[Click to view Connect Now!](https://connect-now-app-a5312752a8c0.herokuapp.com)
 
 
 # Next Steps
