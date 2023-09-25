@@ -1,1 +1,1 @@
-web: sh -c 'node server.js && cd ./client/ && npm start'
+worker: sh -c 'node server.js && cd client && npm start'
